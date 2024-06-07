@@ -1,0 +1,15 @@
+http://localhost:4000/
+
+
+npm init -y
+
+npm i express dotenv axios
+
+node app.js
+
+export CLIENT_APP_ID=XXXXXXX.apps.googleusercontent.com
+
+export REDIRECT_URI=/api/callback
+
+export CLIENT_APP_SECRET=XXXXXXX-XXXXXXXXXXXXXXXXXXXXX
+
